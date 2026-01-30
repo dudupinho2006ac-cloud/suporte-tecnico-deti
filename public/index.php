@@ -198,7 +198,7 @@ $userLogged = $_SESSION["user"] ?? null;
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
-<title>Suporte Técnico - DETI</title>
+<title>Suporte Técnico - DETI (TESTE) </title>
 
 <style>
 :root{
